@@ -1,6 +1,7 @@
 # TyHM
-Técnicas y Herramientas Modernas
-Universidad Nacional de Cuyo
------------------
+<h2>Técnicas y Herramientas Modernas</h2><p>
+<hr>
+ Universidad Nacional de Cuyo
+
  
 
