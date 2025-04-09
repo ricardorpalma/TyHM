@@ -16,3 +16,14 @@
 * Grupo: **RM&CO** <sabrina.mataloni@gmail.com>	Mataloni	Sabrina
 * Grupo: **Los Pibardos** <fabricionehuen17@gmail.com>	Herrera	Fabricio Nehuen
 * Grupo: **Grupo 25** <marielamicaela550@gmail.com> 	Gomez	Mariela
+
+## Enetrega módulo 1
+
+
+<hr>
+
+## Scrum de Mecatrónica
+
+**Green belt**  Lucía
+
+**Asignación de antenas**
