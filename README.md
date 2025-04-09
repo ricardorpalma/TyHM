@@ -16,17 +16,19 @@
 * Grupo: **RM&CO** <sabrina.mataloni@gmail.com>	Mataloni	Sabrina
 * Grupo: **Los Pibardos** <fabricionehuen17@gmail.com>	Herrera	Fabricio Nehuen
 * Grupo: **Grupo 25** <marielamicaela550@gmail.com> 	Gomez	Mariela
+* Grupo: **TRabajo Aprobado** <camigraziotin02@gmail.com> Camila Graziotin
 
 ## Enetrega módulo 1
 * Grupo: **La triple S** <https://github.com/sofiapadin/M-dulo-1>
 * Grupo: **La locomotora** <https://github.com/lucasfg9/Modulo1>
 * Grupo: **Vantablack** <http://gitthub.com/Gonzaloljd/Modulo-1>
-* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  
-* Grupo: **Sureste**
+* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  <https://github.com/sofiabriggs/Cookiies>
+* Grupo: **Sureste** <https://github.com/
 * Grupo: **Teoría de Colas**
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
-* Grupo: **Grupo 25** 
+* Grupo: **Grupo 25**
+* Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Tecnicas-y-herramientas>
 <hr>
 
 <hr>
