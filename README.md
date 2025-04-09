@@ -18,10 +18,18 @@
 * Grupo: **Grupo 25** <marielamicaela550@gmail.com> 	Gomez	Mariela
 
 ## Enetrega módulo 1
-
-
+* Grupo: **La triple S** <https://github.com/sofiapadin/M-dulo-1>
+* Grupo: **La locomotora** <https://github.com/lucasfg9/Modulo1>
+* Grupo: **Vantablack** <http://gitthub.com/Gonzaloljd/Modulo-1>
+* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  
+* Grupo: **Sureste**
+* Grupo: **Teoría de Colas**
+* Grupo: **RM&CO** 
+* Grupo: **Los Pibardos**
+* Grupo: **Grupo 25** 
 <hr>
 
+<hr>
 ## Scrum de Mecatrónica
 
 **Green belt**  Lucía
