@@ -11,7 +11,7 @@
 * Grupo: **La triple S** <mallarsol@hotmail.com.ar> mallarsol@hotmail.com.ar	Mallar 	Sol
 * Grupo: **Vantablack** <estebannlombardo@gmail.com>	Lombardo	Esteban
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  <pedrosaguada@gmail.com>	Pedrosa	Guadalupe
-* Grupo: **Sureste** <lolobriccolalbr23@gmail.com>	Briccola Rivarola 	Lorenzo
+* Grupo: **Sureste** <lolobriccolalbr23@gmail.com>	Briccola Rivarola 	Lorenzo 
 * Grupo: **Teoría de Colas** <lucianogcicchitti@gmail.com>	Cicchitti	Luciano
 * Grupo: **TeXpertos** <sabrina.mataloni@gmail.com>	Mataloni	Sabrina
 * Grupo: **Los Pibardos** <fabricionehuen17@gmail.com>	Herrera	Fabricio Nehuen
@@ -24,7 +24,7 @@
 * Grupo: **La locomotora** <https://github.com/lucasfg9/Modulo1>
 * Grupo: **Vantablack** <http://gitthub.com/Gonzaloljd/Modulo-1>
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  <https://github.com/sofiabriggs/Cookiies>
-* Grupo: **Sureste** <https://github.com/
+* Grupo: **Sureste** <https://github.com/> <https://github.com/ManuGuareschi/ENTREGA-1>
 * Grupo: **Teoría de Colas**
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
