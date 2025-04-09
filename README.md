@@ -17,6 +17,7 @@
 * Grupo: **Los Pibardos** <fabricionehuen17@gmail.com>	Herrera	Fabricio Nehuen
 * Grupo: **Grupo 25** <marielamicaela550@gmail.com> 	Gomez	Mariela
 * Grupo: **TRabajo Aprobado** <camigraziotin02@gmail.com> Camila Graziotin
+* Grupo **INTER** <dominguezsanapaula@gmail.com> Ana Paula Dominguez
 
 ## Enetrega módulo 1
 * Grupo: **La triple S** <https://github.com/sofiapadin/M-dulo-1>
@@ -29,7 +30,8 @@
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Tecnicas-y-herramientas>
-* * Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas>
+* Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas>
+* Grupo **INTER** <https://github.com/adresLand/Modulo-1>
 <hr>
 
 <hr>
