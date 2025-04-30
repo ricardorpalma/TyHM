@@ -26,7 +26,7 @@
 * Grupo: **Vantablack** <http://github.com/Gonzaloljd/Modulo-1> **El sitio de github no existe** 
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  <https://github.com/sofiabriggs/Cookies>
 * Grupo: **Sureste** <https://github.com/> <https://github.com/ManuGuareschi/ENTREGA-1>
-* Grupo: **Teoría de Colas**
+* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM.git>
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
