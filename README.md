@@ -30,7 +30,7 @@
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Tecnicas-y-herramientas>
-* Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas>
+* Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas> **El reposotorio no existe**
 * Grupo **INTER** <https://github.com/adresLand/Modulo-1>
 <hr>
 
