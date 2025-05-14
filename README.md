@@ -21,7 +21,7 @@
 * Grupo **TyH** <paz.zavalaj@gmail.com> Paz Zavala Jurado 
 
 ## Enetrega módulo 1
-* Grupo: **La triple S** <https://github.com/sofiapadin/M-dulo-1>
+* Grupo: **La triple S** <https://github.com/sofiapadin/M-dulo-1> 🥇 25 hs.
 * Grupo: **La locomotora** <https://github.com/lucasfg9/Modulo1>
 * Grupo: **Vantablack** <http://github.com/Gonzaloljd/Modulo-1> **El sitio de github no existe** 
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  <https://github.com/sofiabriggs/Cookies>
