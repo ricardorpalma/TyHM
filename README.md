@@ -34,7 +34,7 @@
 * Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas> 20 hs.
 * Grupo **INTER** <https://github.com/andresLand/M-dulo1> 🥇 25 hs.
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas> 20 hs
-* Grupo **Los Ritmocerontes** <https://github.com/Santiagoroyo/LosRitmocerontes> **Sitio Inexistente**
+* Grupo **Los Ritmocerontes** <https://github.com/Santiagoroyo/LosRitmocerontes> 
 <hr>
 
 ## Entrega Módulo 2
