@@ -53,7 +53,7 @@ Entregables:
 
 * Grupo: **La triple S** 
 * Grupo: **La locomotora** 
-* Grupo: **Vantablack** 
+* Grupo: **Vantablack** <>
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
 * Grupo: **Sureste** 
 * Grupo: **Teoría de Colas** 
