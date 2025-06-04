@@ -61,7 +61,7 @@ Entregables:
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** 
-* Grupo: **TEXpertos** 
+* Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas/tree/main/Elementos de Programacion>
 * Grupo **INTER** 
 * Grupo **TyH** 
 * Grupo **Los Ritmocerontes** 
