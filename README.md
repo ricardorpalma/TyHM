@@ -52,7 +52,7 @@ Entregables:
 ### Link de entregas repositorios módulo 2
 
 * Grupo: **La triple S** 
-* Grupo: **La locomotora** 
+* Grupo: **La locomotora** <https://github.com/fernandojfrias/Modulo2>
 * Grupo: **Vantablack** <>
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
 * Grupo: **Sureste** 
