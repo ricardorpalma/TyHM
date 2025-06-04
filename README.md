@@ -62,7 +62,7 @@ Entregables:
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** 
 * Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas/tree/main/Elementos%20de%20Programaci%C3%B3n>
-* Grupo **INTER** 
+* Grupo **INTER** <https://github.com/AnaPaulaDominguez/MODULO-2>
 * Grupo **TyH** 
 * Grupo **Los Ritmocerontes** 
 
