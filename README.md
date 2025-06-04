@@ -86,7 +86,7 @@ Trabajo de Investigación Aplicada
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** 
 * Grupo: **TEXpertos** 
-* Grupo **INTER** 
+* Grupo **INTER** <https://github.com/jifernandez-ar/Modulo--3>
 * Grupo **TyH** 
 * Grupo **Los Ritmocerontes** 
 
