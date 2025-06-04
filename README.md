@@ -56,7 +56,7 @@ Entregables:
 * Grupo: **Vantablack** <>
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
 * Grupo: **Sureste** 
-* Grupo: **Teoría de Colas** 
+* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M2>
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
@@ -80,7 +80,7 @@ Trabajo de Investigación Aplicada
 * Grupo: **Vantablack** 
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
 * Grupo: **Sureste** 
-* Grupo: **Teoría de Colas** 
+* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M3>
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
@@ -106,7 +106,7 @@ Entregables:
 * Grupo: **Vantablack** 
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
 * Grupo: **Sureste** 
-* Grupo: **Teoría de Colas** 
+* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M4> 
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
