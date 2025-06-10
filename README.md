@@ -77,7 +77,7 @@ Trabajo de Investigación Aplicada
 
 * Grupo: **La triple S** 
 * Grupo: **La locomotora** 
-* Grupo: **Vantablack** 
+* Grupo: **Vantablack** <https://github.com/Gonzaloljd/Modulo-3>
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
 * Grupo: **Sureste** 
 * Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M3>
