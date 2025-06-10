@@ -53,7 +53,7 @@ Entregables:
 
 * Grupo: **La triple S** 
 * Grupo: **La locomotora** <https://github.com/fernandojfrias/Modulo2>
-* Grupo: **Vantablack** <>
+* Grupo: **Vantablack** <https://github.com/Gonzaloljd/Modulo-2>
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
 * Grupo: **Sureste** 
 * Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M2>
