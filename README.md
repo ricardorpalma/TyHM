@@ -12,7 +12,7 @@
 * Grupo: **Vantablack** <estebannlombardo@gmail.com>	Lombardo	Esteban
 * Grupo: **Cookies** Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa  <pedrosaguada@gmail.com>	Pedrosa	Guadalupe>
 * Grupo: **Sureste** <lolobriccolalbr23@gmail.com>	Briccola Rivarola 	Lorenzo - ZG Bricola, Prado , Nuarte, Martin
-* Grupo: **Teoría de Colas** <lucianogcicchitti@gmail.com>	Cicchitti	Luciano
+* Grupo: **Teoría de Colas** <lucianogcicchitti@gmail.com>	Cicchitti	Luciano - ZG Combes Diego
 * Grupo: **TeXpertos** <sabrina.mataloni@gmail.com>	Mataloni	Sabrina
 * Grupo: **Los Pibardos** <fabricionehuen17@gmail.com>	Herrera	Fabricio Nehuen
 * Grupo: **Grupo 25** <marielamicaela550@gmail.com> 	Gomez	Mariela
@@ -26,7 +26,7 @@
 * Grupo: **Vantablack** <http://github.com/Gonzaloljd/Modulo-1> 20 hs. 
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  <https://github.com/sofiabriggs/Cookies> 20 hs
 * Grupo: **Sureste** <https://github.com/> <https://github.com/ManuGuareschi/ENTREGA-1> 20 hs
-* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM.git> No han utilizado la plantilla de cátedra
+* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM.git> No han utilizado la plantilla de cátedra 20 Hs.
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
@@ -80,7 +80,7 @@ Trabajo de Investigación Aplicada
 * Grupo: **Vantablack** 
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** <https://github.com/sofiabriggs/Cookies/tree/09c0fa03038342d4157296f982c0e36c12de4b29/M%C3%B3dulo_3>
 * Grupo: **Sureste** <https://github.com/lucionuarte/MODULO-3>
-* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M3>
+* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M3> Pregunsta a Masera
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
@@ -106,7 +106,7 @@ Entregables:
 * Grupo: **Vantablack** 
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** <https://github.com/sofiabriggs/Cookies/tree/09c0fa03038342d4157296f982c0e36c12de4b29/M%C3%B3dulo_4>
 * Grupo: **Sureste** <https://github.com/ManuGuareschi/ENTREGA-1/blob/main/Mod4%20(1).zip>  25 Hs
-* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M4> 
+* Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M4> 20 Hs.
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
