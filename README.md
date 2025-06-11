@@ -19,6 +19,9 @@
 * Grupo: **TRabajo Aprobado** <camigraziotin02@gmail.com> Camila Graziotin - ZG Graziotin, Marini, Serrano. 
 * Grupo **INTER** <dominguezsanapaula@gmail.com> Ana Paula Dominguez - ZG Anastasia Bekerman 
 * Grupo **TyH** <paz.zavalaj@gmail.com> Paz Zavala Jurado - ZG Verde Gerbino, Navarro, Zavala, Rogerone
+* Grupo **Los Ritmocerontes** - ? Marzonet, Royo, Gimenez, Herrara ZV
+
+  
 
 ## Enetrega módulo 1
 * Grupo: **La triple S** <https://github.com/sofiapadin/M-dulo-1> 🥇 25 hs.
@@ -64,7 +67,7 @@ Entregables:
 * Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas/tree/main/Elementos%20de%20Programaci%C3%B3n>
 * Grupo **INTER** <https://github.com/AnaPaulaDominguez/MODULO-2> 20 Hs
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas>
-* Grupo **Los Ritmocerontes** 
+* Grupo **Los Ritmocerontes** <https://github.com/Santiagoroyo/LosRitmocerontes/tree/1291f1e72048ba8738a712456c35b2511a649666/M%C3%B3dulo%202>
 
 <hr>
 
@@ -88,7 +91,7 @@ Trabajo de Investigación Aplicada
 * Grupo: **TEXpertos** 
 * Grupo **INTER** <https://github.com/jifernandez-ar/Modulo--3> 20 Hs
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas>
-* Grupo **Los Ritmocerontes** 
+* Grupo **Los Ritmocerontes** <https://github.com/Santiagoroyo/LosRitmocerontes/tree/1291f1e72048ba8738a712456c35b2511a649666/M%C3%B3dulo%202>
 
 <hr>
 
@@ -114,7 +117,7 @@ Entregables:
 * Grupo: **TEXpertos** 
 * Grupo **INTER** <https://github.com/TomiAliaga/modulo-4/blob/main/README.md> 20 Hs 
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas>
-* Grupo **Los Ritmocerontes** 
+* Grupo **Los Ritmocerontes** <https://github.com/Santiagoroyo/LosRitmocerontes/tree/1291f1e72048ba8738a712456c35b2511a649666/M%C3%B3dulo%203>
 
 
 
