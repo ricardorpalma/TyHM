@@ -10,7 +10,7 @@
 * Grupo: **La locomotora** <ferth.frias@gmail.com>	Frías	Fernando Javier  -- github
 * Grupo: **La triple S** <mallarsol@hotmail.com.ar> mallarsol@hotmail.com.ar	Mallar 	Sol
 * Grupo: **Vantablack** <estebannlombardo@gmail.com>	Lombardo	Esteban
-* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  <pedrosaguada@gmail.com>	Pedrosa	Guadalupe
+* Grupo: **Cookies** Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa  <pedrosaguada@gmail.com>	Pedrosa	Guadalupe>
 * Grupo: **Sureste** <lolobriccolalbr23@gmail.com>	Briccola Rivarola 	Lorenzo 
 * Grupo: **Teoría de Colas** <lucianogcicchitti@gmail.com>	Cicchitti	Luciano
 * Grupo: **TeXpertos** <sabrina.mataloni@gmail.com>	Mataloni	Sabrina
@@ -24,7 +24,7 @@
 * Grupo: **La triple S** <https://github.com/sofiapadin/M-dulo-1> 🥇 25 hs.
 * Grupo: **La locomotora** <https://github.com/lucasfg9/Modulo1> 20 hs.
 * Grupo: **Vantablack** <http://github.com/Gonzaloljd/Modulo-1> 20 hs. 
-* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  <https://github.com/sofiabriggs/Cookies>
+* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa**  <https://github.com/sofiabriggs/Cookies> 20 hs
 * Grupo: **Sureste** <https://github.com/> <https://github.com/ManuGuareschi/ENTREGA-1>
 * Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM.git> No han utilizado la plantilla de cátedra
 * Grupo: **RM&CO** 
@@ -54,7 +54,7 @@ Entregables:
 * Grupo: **La triple S** 
 * Grupo: **La locomotora** <https://github.com/fernandojfrias/Modulo2>
 * Grupo: **Vantablack** <>
-* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
+* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** <https://github.com/sofiabriggs/Cookies/tree/09c0fa03038342d4157296f982c0e36c12de4b29/M%C3%B3dulo_2> Pedrosa OK Mec y Fluid
 * Grupo: **Sureste** 
 * Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M2>
 * Grupo: **RM&CO** 
@@ -78,7 +78,7 @@ Trabajo de Investigación Aplicada
 * Grupo: **La triple S** 
 * Grupo: **La locomotora** 
 * Grupo: **Vantablack** 
-* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
+* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** <https://github.com/sofiabriggs/Cookies/tree/09c0fa03038342d4157296f982c0e36c12de4b29/M%C3%B3dulo_3>
 * Grupo: **Sureste** 
 * Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M3>
 * Grupo: **RM&CO** 
@@ -104,7 +104,7 @@ Entregables:
 * Grupo: **La triple S** 
 * Grupo: **La locomotora** 
 * Grupo: **Vantablack** 
-* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** 
+* Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** <https://github.com/sofiabriggs/Cookies/tree/09c0fa03038342d4157296f982c0e36c12de4b29/M%C3%B3dulo_4>
 * Grupo: **Sureste** 
 * Grupo: **Teoría de Colas** <https://github.com/DC-unc/TyHM-M4> 
 * Grupo: **RM&CO** 
