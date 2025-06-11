@@ -8,7 +8,7 @@
  ## Grupos de Ingeniería Industrial
 
 * Grupo: **La locomotora** <ferth.frias@gmail.com>	Frías	Fernando Javier  -- github
-* Grupo: **La triple S** <mallarsol@hotmail.com.ar> mallarsol@hotmail.com.ar	Mallar 	Sol
+* Grupo: **La triple S** <mallarsol@hotmail.com.ar> mallarsol@hotmail.com.ar	Mallar 	Sol- Zona GRis Mallar Sol y Sara Piris
 * Grupo: **Vantablack** <estebannlombardo@gmail.com>	Lombardo	Esteban
 * Grupo: **Cookies** Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa  <pedrosaguada@gmail.com>	Pedrosa	Guadalupe>
 * Grupo: **Sureste** <lolobriccolalbr23@gmail.com>	Briccola Rivarola 	Lorenzo 
@@ -51,7 +51,7 @@ Entregables:
 
 ### Link de entregas repositorios módulo 2
 
-* Grupo: **La triple S** 
+* Grupo: **La triple S** <https://github.com/sofiapadin/Modulo-2>
 * Grupo: **La locomotora** <https://github.com/fernandojfrias/Modulo2>
 * Grupo: **Vantablack** <>
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** <https://github.com/sofiabriggs/Cookies/tree/09c0fa03038342d4157296f982c0e36c12de4b29/M%C3%B3dulo_2> Pedrosa OK Mec y Fluid
@@ -75,7 +75,7 @@ Trabajo de Investigación Aplicada
 
 ### Link de entregas repositorios módulo 3
 
-* Grupo: **La triple S** 
+* Grupo: **La triple S** <https://github.com/saralp19/Modulo3>
 * Grupo: **La locomotora** 
 * Grupo: **Vantablack** 
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** <https://github.com/sofiabriggs/Cookies/tree/09c0fa03038342d4157296f982c0e36c12de4b29/M%C3%B3dulo_3>
@@ -101,7 +101,7 @@ Entregables:
 
 ### Link de entregas repositorios módulo 4
 
-* Grupo: **La triple S** 
+* Grupo: **La triple S** <https://github.com/saralp19/M-dulo4>
 * Grupo: **La locomotora** 
 * Grupo: **Vantablack** 
 * Grupo: **Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa** <https://github.com/sofiabriggs/Cookies/tree/09c0fa03038342d4157296f982c0e36c12de4b29/M%C3%B3dulo_4>
