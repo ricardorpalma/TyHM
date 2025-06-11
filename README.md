@@ -13,7 +13,7 @@
 * Grupo: **Cookies** Briggs E, Briggs S, Constantinidi, Nallib, Pedrosa  <pedrosaguada@gmail.com>	Pedrosa	Guadalupe>
 * Grupo: **Sureste** <lolobriccolalbr23@gmail.com>	Briccola Rivarola 	Lorenzo - ZG Bricola, Prado , Nuarte, Martin
 * Grupo: **Teoría de Colas** <lucianogcicchitti@gmail.com>	Cicchitti	Luciano - ZG Combes Diego
-* Grupo: **TeXpertos** <sabrina.mataloni@gmail.com>	Mataloni	Sabrina
+* Grupo: **TeXpertos** <sabrina.mataloni@gmail.com>	Mataloni	Sabrina - ZG Mataroni Rivero Sisterna
 * Grupo: **Los Pibardos** <fabricionehuen17@gmail.com>	Herrera	Fabricio Nehuen
 * Grupo: **Grupo 25** <marielamicaela550@gmail.com> 	Gomez	Mariela
 * Grupo: **TRabajo Aprobado** <camigraziotin02@gmail.com> Camila Graziotin - ZG Graziotin, Marini, Serrano. 
@@ -64,7 +64,7 @@ Entregables:
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Modulo-2>
-* Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas/tree/main/Elementos%20de%20Programaci%C3%B3n>
+* Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas/tree/main/Elementos%20de%20Programaci%C3%B3n> 20 Hs
 * Grupo **INTER** <https://github.com/AnaPaulaDominguez/MODULO-2> 20 Hs
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas>
 * Grupo **Los Ritmocerontes** <https://github.com/Santiagoroyo/LosRitmocerontes/tree/1291f1e72048ba8738a712456c35b2511a649666/M%C3%B3dulo%202>
@@ -88,7 +88,7 @@ Trabajo de Investigación Aplicada
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Modulo-3>
-* Grupo: **TEXpertos** 
+* Grupo: **TEXpertos** <https://github.com/sabrii-m/M-dulo-3>
 * Grupo **INTER** <https://github.com/jifernandez-ar/Modulo--3> 20 Hs
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas>
 * Grupo **Los Ritmocerontes** <https://github.com/Santiagoroyo/LosRitmocerontes/tree/1291f1e72048ba8738a712456c35b2511a649666/M%C3%B3dulo%202>
@@ -114,7 +114,7 @@ Entregables:
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Modulo-4>
-* Grupo: **TEXpertos** 
+* Grupo: **TEXpertos** <https://github.com/sabrii-m/M-dulo-4>
 * Grupo **INTER** <https://github.com/TomiAliaga/modulo-4/blob/main/README.md> 20 Hs 
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas>
 * Grupo **Los Ritmocerontes** <https://github.com/Santiagoroyo/LosRitmocerontes/tree/1291f1e72048ba8738a712456c35b2511a649666/M%C3%B3dulo%203>
