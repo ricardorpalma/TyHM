@@ -17,7 +17,7 @@
 * Grupo: **Los Pibardos** <fabricionehuen17@gmail.com>	Herrera	Fabricio Nehuen
 * Grupo: **Grupo 25** <marielamicaela550@gmail.com> 	Gomez	Mariela
 * Grupo: **TRabajo Aprobado** <camigraziotin02@gmail.com> Camila Graziotin
-* Grupo **INTER** <dominguezsanapaula@gmail.com> Ana Paula Dominguez
+* Grupo **INTER** <dominguezsanapaula@gmail.com> Ana Paula Dominguez - ZG Anastasia Bekerman 
 * Grupo **TyH** <paz.zavalaj@gmail.com> Paz Zavala Jurado 
 
 ## Enetrega módulo 1
@@ -62,7 +62,7 @@ Entregables:
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** 
 * Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas/tree/main/Elementos%20de%20Programaci%C3%B3n>
-* Grupo **INTER** <https://github.com/AnaPaulaDominguez/MODULO-2>
+* Grupo **INTER** <https://github.com/AnaPaulaDominguez/MODULO-2> 20 Hs
 * Grupo **TyH** 
 * Grupo **Los Ritmocerontes** 
 
@@ -86,7 +86,7 @@ Trabajo de Investigación Aplicada
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** 
 * Grupo: **TEXpertos** 
-* Grupo **INTER** <https://github.com/jifernandez-ar/Modulo--3>
+* Grupo **INTER** <https://github.com/jifernandez-ar/Modulo--3> 20 Hs
 * Grupo **TyH** 
 * Grupo **Los Ritmocerontes** 
 
@@ -112,7 +112,7 @@ Entregables:
 * Grupo: **Grupo 25**
 * Grupo: **Trabajo Aprobado** 
 * Grupo: **TEXpertos** 
-* Grupo **INTER** 
+* Grupo **INTER** <https://github.com/TomiAliaga/modulo-4/blob/main/README.md> 20 Hs 
 * Grupo **TyH** 
 * Grupo **Los Ritmocerontes** 
 
