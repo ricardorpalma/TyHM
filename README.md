@@ -16,7 +16,7 @@
 * Grupo: **TeXpertos** <sabrina.mataloni@gmail.com>	Mataloni	Sabrina
 * Grupo: **Los Pibardos** <fabricionehuen17@gmail.com>	Herrera	Fabricio Nehuen
 * Grupo: **Grupo 25** <marielamicaela550@gmail.com> 	Gomez	Mariela
-* Grupo: **TRabajo Aprobado** <camigraziotin02@gmail.com> Camila Graziotin
+* Grupo: **TRabajo Aprobado** <camigraziotin02@gmail.com> Camila Graziotin - ZG Graziotin, Marini, Serrano. 
 * Grupo **INTER** <dominguezsanapaula@gmail.com> Ana Paula Dominguez - ZG Anastasia Bekerman 
 * Grupo **TyH** <paz.zavalaj@gmail.com> Paz Zavala Jurado - ZG Verde Gerbino, Navarro, Zavala, Rogerone
 
@@ -30,7 +30,7 @@
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
-* Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Tecnicas-y-herramientas>
+* Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Tecnicas-y-herramientas> 20 hs
 * Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas> 20 hs.
 * Grupo **INTER** <https://github.com/andresLand/M-dulo1> 🥇 25 hs.
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas> 20 hs
@@ -60,7 +60,7 @@ Entregables:
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
-* Grupo: **Trabajo Aprobado** 
+* Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Modulo-2>
 * Grupo: **TEXpertos** <https://github.com/sabrii-m/TyH-Modernas/tree/main/Elementos%20de%20Programaci%C3%B3n>
 * Grupo **INTER** <https://github.com/AnaPaulaDominguez/MODULO-2> 20 Hs
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas>
@@ -84,7 +84,7 @@ Trabajo de Investigación Aplicada
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
-* Grupo: **Trabajo Aprobado** 
+* Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Modulo-3>
 * Grupo: **TEXpertos** 
 * Grupo **INTER** <https://github.com/jifernandez-ar/Modulo--3> 20 Hs
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas>
@@ -110,7 +110,7 @@ Entregables:
 * Grupo: **RM&CO** 
 * Grupo: **Los Pibardos**
 * Grupo: **Grupo 25**
-* Grupo: **Trabajo Aprobado** 
+* Grupo: **Trabajo Aprobado** <https://github.com/camilagraziotin/Modulo-4>
 * Grupo: **TEXpertos** 
 * Grupo **INTER** <https://github.com/TomiAliaga/modulo-4/blob/main/README.md> 20 Hs 
 * Grupo **TyH** <https://github.com/pazzavalaj/Carpeta-Tecnicas-y-Herramientas>
