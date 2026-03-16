@@ -1,6 +1,8 @@
 # TyHM
-<h2>Técnicas y Herramientas Modernas 2025 </h2><p>
+~~Técnicas y Herramientas Modernas 2025~~ <p>
 <hr>
+Este curso ha terminado. Dirijete a TyHM 2026
+ 
  Universidad Nacional de Cuyo
 
 <hr>
