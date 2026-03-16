@@ -1,11 +1,12 @@
 # TyHM
 ~~Técnicas y Herramientas Modernas 2025~~ <p>
-<hr>
-Este curso ha terminado. Dirijete a TyHM 2026 <https://github.com/ricardorpalma/TyHM_2026>
- 
- Universidad Nacional de Cuyo
 
 <hr>
+⚠️[!NOTE]
+> Este curso ha terminado. Dirijete a TyHM 2026 <https://github.com/ricardorpalma/TyHM_2026>
+> Universidad Nacional de Cuyo
+
+ <hr>
 
  ## Grupos de Ingeniería Industrial
 
