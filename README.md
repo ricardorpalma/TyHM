@@ -2,9 +2,12 @@
 ~~Técnicas y Herramientas Modernas 2025~~ <p>
 
 <hr>
+
 ⚠️[!NOTE]
 >
-> Este curso ha terminado. Dirigete a ![TyHM 2026](https://github.com/ricardorpalma/TyHM_2026)
+> Este curso ha terminado.
+> 
+> Dirigete a ![TyHM 2026](https://github.com/ricardorpalma/TyHM_2026)
 >
 > Universidad Nacional de Cuyo
 
